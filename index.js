@@ -1,6 +1,6 @@
 const images = [
     { src: "./assets/Avengers Assemble Captain America Vs Thanos Army.jpeg" },
-    { src: "./assets/loki.jpeg.jpeg" },
+    { src: "./assets/download (3).jpeg" },
     { src: "./assets/download (1).jpeg" },
     { src: "./assets/download.jpeg" },
     { src: "./assets/Groot and Rocket.jpeg"},
